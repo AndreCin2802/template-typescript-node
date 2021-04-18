@@ -18,7 +18,7 @@
   "plugins": [
     "prettier",
     "@typescript-eslint",
-    "simple-import-sort",
+    "simple-import-sort"
 
   ],
   "ignorePatterns": "build",
